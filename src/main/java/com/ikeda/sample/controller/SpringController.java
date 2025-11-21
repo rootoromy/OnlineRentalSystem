@@ -8,7 +8,7 @@ public class SpringController {
 	
 	@GetMapping(value = "/sample")
 	public String method() {
-		return "byebye";
+		return "what's up";
 	}
 
 }
